@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Touutae-lab/introduction/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/Touutae-lab/introduction/static/js/main.796d93e1.chunk.js",
+    "main.js.map": "/Touutae-lab/introduction/static/js/main.796d93e1.chunk.js.map",
+    "runtime-main.js": "/Touutae-lab/introduction/static/js/runtime-main.39d90180.js",
+    "runtime-main.js.map": "/Touutae-lab/introduction/static/js/runtime-main.39d90180.js.map",
+    "static/js/2.19a1fe7b.chunk.js": "/Touutae-lab/introduction/static/js/2.19a1fe7b.chunk.js",
+    "static/js/2.19a1fe7b.chunk.js.map": "/Touutae-lab/introduction/static/js/2.19a1fe7b.chunk.js.map",
+    "static/js/3.0d79b889.chunk.js": "/Touutae-lab/introduction/static/js/3.0d79b889.chunk.js",
+    "static/js/3.0d79b889.chunk.js.map": "/Touutae-lab/introduction/static/js/3.0d79b889.chunk.js.map",
+    "index.html": "/Touutae-lab/introduction/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/Touutae-lab/introduction/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.19a1fe7b.chunk.js.LICENSE.txt": "/Touutae-lab/introduction/static/js/2.19a1fe7b.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/Touutae-lab/introduction/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.39d90180.js",
+    "static/js/2.19a1fe7b.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.796d93e1.chunk.js"
+  ]
+}
